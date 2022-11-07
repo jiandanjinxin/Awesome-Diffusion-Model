@@ -24,11 +24,11 @@
 
 
 # Github Awsome-Diffusion-Model
-*https://github.com/heejkoo/Awesome-Diffusion-Models*
+1. *https://github.com/heejkoo/Awesome-Diffusion-Models*
 
-*https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy*
+2. *https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy*
 
-*[深入浅出详解扩散模型：首篇综述与Github论文分类汇总](https://www.zhuanzhi.ai/document/5e5c5e21b4dd39c404005e9fcbbb74aa)*
+3. *[深入浅出详解扩散模型：首篇综述与Github论文分类汇总](https://www.zhuanzhi.ai/document/5e5c5e21b4dd39c404005e9fcbbb74aa)*
 
 
 
@@ -60,7 +60,7 @@
 
 2. [英伟达&Google最新《基于扩散的去噪生成建模基础与应用》教程，182页ppt带你学习高保真图像生成](https://www.zhuanzhi.ai/vip/abfbb1753f79f7596e11fbdda8cfcc34)
 
-https://cvpr2022-tutorial-diffusion-models.github.io/
+   https://cvpr2022-tutorial-diffusion-models.github.io/
 
 #### Code
 
