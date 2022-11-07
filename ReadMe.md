@@ -1,16 +1,19 @@
 #### 简介
 
-#### 研究方向
+#### 综述
 
-# 超声
-* T.-C. Chiang, Y.-S. Huang, R.-T. Chen, C.-S. Huang, and R.-F. Chang, “Tumor detection in automated breast ultrasound using 3-d cnn and prioritized candidate aggregation,”IEEE Transactions on Medical Imaging, vol. 38, no. 1, pp. 240–249, 2019.
-这篇文章主要做了两个工作：1.用神经网络在Automated breast ultrasound （AUBS）数据中判断乳房异常；2.解决Automated breast ultrasound数据中slices之间的重叠。
-文章用了3D CNN去做二分类，判断是否有肿瘤。在171个肿瘤案例中敏感度达到了95%。
-#MRI
-* M.U.Dalmıs¸,S.Vreemann,T.Kooi,R.M.Mann,N.Karssemeijer, and A. Gubern-M´erida, “Fully automated detection of breast cancer in screening mri using convolutional neural networks,” Journal of Medical Imaging, vol. 5, no. 1, p. 014502, 2018.
-这篇文章中，作者实现了一个基于CNN的MRI数据CADe（Computer-Aided Detection）系统。
+# 北大最新《扩散模型:方法和应用》综述
+* [Yang, L., Zhang, Z., Song, Y., Hong, S., Xu, R., Zhao, Y., ... & Yang, M. H. (2022). Diffusion models: A comprehensive survey of methods and applications. arXiv preprint arXiv:2209.00796.](https://arxiv.org/abs/2209.00796)
+[最近大火的“扩散模型”首篇综述来了！北大最新《扩散模型:方法和应用》综述，23页pdf涵盖200页文献](https://zhuanlan.zhihu.com/p/562029290)
 
-这个CAD系统是检测乳腺癌的，用乳房的MRI图像来判断有肿瘤的可能性
+# UCF等《视觉扩散模型》综述
+* [Croitoru, F. A., Hondru, V., Ionescu, R. T., & Shah, M. (2022). Diffusion models in vision: A survey. arXiv preprint arXiv:2209.04747.](https://arxiv.org/abs/2209.04747)
+[UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](https://zhuanlan.zhihu.com/p/564358628)
+
+# 视觉的有效扩散模型综述
+* [Ulhaq, A., Akhtar, N., & Pogrebna, G. (2022). Efficient Diffusion Models for Vision: A Survey. arXiv preprint arXiv:2210.09292.](https://arxiv.org/abs/2210.09292)
+[UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](https://zhuanlan.zhihu.com/p/564358628)
+
 
 # 肿块
 *J. Zhang, E. H. Cain, A. Saha, Z. Zhu, and M. A. Mazurowski, “Breast mass detection in mammography and tomosynthesis via fully convolutional network-based heatmap regression,” in Medical Imaging 2018: Computer-Aided Diagnosis, vol. 10575\. International Society for Optics and Photonics, 2018, p. 1057525.*
