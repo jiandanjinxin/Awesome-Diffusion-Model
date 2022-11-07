@@ -4,15 +4,23 @@
 
 # 北大最新《扩散模型:方法和应用》综述
 * [Yang, L., Zhang, Z., Song, Y., Hong, S., Xu, R., Zhao, Y., ... & Yang, M. H. (2022). Diffusion models: A comprehensive survey of methods and applications. arXiv preprint arXiv:2209.00796.](https://arxiv.org/abs/2209.00796)
+* 
 [最近大火的“扩散模型”首篇综述来了！北大最新《扩散模型:方法和应用》综述，23页pdf涵盖200页文献](https://zhuanlan.zhihu.com/p/562029290)
 
 # UCF等《视觉扩散模型》综述
 * [Croitoru, F. A., Hondru, V., Ionescu, R. T., & Shah, M. (2022). Diffusion models in vision: A survey. arXiv preprint arXiv:2209.04747.](https://arxiv.org/abs/2209.04747)
-[UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](https://zhuanlan.zhihu.com/p/564358628)
+
+* [UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](https://zhuanlan.zhihu.com/p/564358628)
 
 # 视觉的有效扩散模型综述
 * [Ulhaq, A., Akhtar, N., & Pogrebna, G. (2022). Efficient Diffusion Models for Vision: A Survey. arXiv preprint arXiv:2210.09292.](https://arxiv.org/abs/2210.09292)
-[UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](https://zhuanlan.zhihu.com/p/564358628)
+
+* [视觉的有效扩散模型综述](https://www.zhuanzhi.ai/vip/c3a78910052e2d5b9a17b08e65630fc0)
+
+# 西湖大学李子青等最新《生成式扩散模型》综述
+* [Cao, H., Tan, C., Gao, Z., Chen, G., Heng, P. A., & Li, S. Z. (2022). A survey on generative diffusion model. arXiv preprint arXiv:2209.02646.](https://arxiv.org/abs/2209.02646)
+
+* [西湖大学李子青等最新《生成式扩散模型》综述，18页pdf详解扩散模型基础、方法体系和应用](https://www.zhuanzhi.ai/document/8253c59f6277f95a1fa21b53ed48ee85)
 
 
 # 肿块
