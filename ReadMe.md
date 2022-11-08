@@ -68,7 +68,7 @@
 
 2.  太乙 Stable Diffusion 纯中文版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
 
-   太乙 Stable Diffusion 中英双语版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1
+    太乙 Stable Diffusion 中英双语版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1
    
 3.  [code](https://github.com/nyukat/breast_density_classifier)
 
