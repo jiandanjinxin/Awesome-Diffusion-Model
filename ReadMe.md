@@ -62,6 +62,30 @@
 
    https://cvpr2022-tutorial-diffusion-models.github.io/
 
+3. Diffusion相关论文
+### 论文DDPM：Denoising Diffusion Probabilistic Models
+   [下载链接](https://arxiv.org/abs/2006.11239)
+   
+### 论文iDDPM：Improved Denoising Diffusion Probabilistic Models
+   [下载链接](https://arxiv.org/abs/2102.09672)
+   [Code](https://github.com/openai/improved-diffusion)
+   
+### 论文DDIM：Denoising Diffusion Implicit Models
+   [下载链接](https://arxiv.org/abs/2010.02502)
+   
+### 论文NCSN_v1：Generative Modeling by Estimating Gradients of the Data Distribution   
+   [下载链接](https://arxiv.org/abs/1907.05600)
+   [Code](https://github.com/ermongroup/ncsn)
+   
+### 论文NCSN_v2：Improved Techniques for Training Score-Based Generative Models
+   [下载链接](https://arxiv.org/abs/2006.09011)
+   [Code同NCSN_v1](https://github.com/ermongroup/ncsn)
+   
+### 论文NCSN_v3：Score-Based Generative Modeling through Stochastic Differential Equations
+   [下载链接](https://arxiv.org/abs/2011.13456)
+   [Code](https://github.com/yang-song/score_sde)
+   
+
 #### Code
 
 1.  [首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/mtZ8K6d2ST5Mkj3JZUHwqA)
@@ -73,4 +97,5 @@
 3.  [code](https://github.com/nyukat/breast_density_classifier)
 
 
-    
+
+
