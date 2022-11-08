@@ -64,8 +64,13 @@
 
 #### Code
 
-1.  [2019-Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening](https://github.com/nyukat/breast_cancer_classifier)
-2.  [2017-Breast density classification with deep convolutional neural networks](https://github.com/nyukat/breast_density_classifier)
+1.  [首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/mtZ8K6d2ST5Mkj3JZUHwqA)
+
+2.  太乙 Stable Diffusion 纯中文版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-v0.1
+
+   太乙 Stable Diffusion 中英双语版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1
+   
+3.  [code](https://github.com/nyukat/breast_density_classifier)
 
 
     
