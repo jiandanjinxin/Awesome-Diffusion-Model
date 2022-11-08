@@ -93,7 +93,9 @@
 
     太乙 Stable Diffusion 中英双语版本：https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1
    
-3.  [code](https://github.com/nyukat/breast_density_classifier)
+3.  [improved DDPM代码讲解](https://www.bilibili.com/video/BV1sG411s7vV/?spm_id_from=333.880.my_history.page.click&vd_source=68b8dcbf12aa4787d80601b51d31e25a)
+
+4.  [DDIM代码讲解](https://www.bilibili.com/video/BV1JY4y1N7dn/?spm_id_from=333.788.recommend_more_video.1&vd_source=68b8dcbf12aa4787d80601b51d31e25a)
 
 
 
